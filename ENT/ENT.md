@@ -11,4 +11,4 @@ L'**E.N.T.**, pour **E**space **N**umérique de **T**ravail est le portail de l'
 
 ![ent_accueil.png](/ent_accueil.png)
 
-Suggestion : https://www.ac-lille.fr/ENT/les-outils-de-l-ent/copy_of_module-m2-2-outils-pedagogiques.pdf
+Suggestion : https://www.ac-lille.fr/ENT/les-outils-de-l-ent/copy_of_module-m2-2-outils-pedagogiques.pdfa
